@@ -15,5 +15,5 @@ var_dump(array_reduce($arr, function ($item, $result) {
     return $result + $item;
 }));
 
-uasort($rndArr, fn($a, $b) => $a >= $b ? true : false);
+uasort($rndArr, fn($a, $b) => $a >= $b);
 var_dump($rndArr);
