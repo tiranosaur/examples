@@ -14,6 +14,7 @@
     <ol><a href="/hightLevelFunction.php">Hight Level Function</a></ol>    
     <ol><a href="/solid_O.php">Solid O</a></ol>
     <ol><a href="/recursion.php">Recursion</a></ol>
+    <ol><a href="/lambda.php">Lambda</a></ol>
 </ul>
 </body>
 </html>
