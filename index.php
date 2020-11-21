@@ -8,6 +8,8 @@
     <title>Document</title>
 </head>
 <body>
+<hr>
+<a href="JavaScriptAdv/index.php">JavaScript Test</a>
 <ul>
     <ol><a href="/closure.php">Closure</a></ol>
     <ol><a href="/generator.php">Generator</a></ol>
