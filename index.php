@@ -8,9 +8,12 @@
     <title>Document</title>
 </head>
 <body>
+<!------------------------------->
 <hr>
 <a href="JavaScriptAdv/index.php">JavaScript Test</a>
-<ul>
+<!------------------------------->
+<hr>
+<ul style="padding: 0">
     <ol><a href="/closure.php">Closure</a></ol>
     <ol><a href="/generator.php">Generator</a></ol>
     <ol><a href="/hightLevelFunction.php">Hight Level Function</a></ol>    
@@ -18,5 +21,12 @@
     <ol><a href="/recursion.php">Recursion</a></ol>
     <ol><a href="/lambda.php">Lambda</a></ol>
 </ul>
+<!-------------------------------->
+<hr>
+<h3>Frontend cheatsheet</h3>
+<ul>
+    <li><a href="/frontend/socialNetwork/index.php">Social slider</a></li>
+</ul>
+<!------------------------------->
 </body>
 </html>
