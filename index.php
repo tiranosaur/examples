@@ -26,6 +26,7 @@
 <h3>Frontend cheatsheet</h3>
 <ul>
     <li><a href="/frontend/socialNetwork/index.php">Social slider</a></li>
+    <li><a href="/frontend/accordionSimple/index.php">Simple Accordion</a></li>
 </ul>
 <!------------------------------->
 </body>
