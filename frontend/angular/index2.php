@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>{{pass}}</h1>
-<div ng-app="myApp">
+<div ng-app="secondApp">
     <div ng-controller="zeroController">
         <p ng-repeat="item in list.peoples" ng-click="alarmItem(item)">{{item.name}} - {{item.age}}</p>
     </div>
@@ -25,10 +25,10 @@
             {name: 'Kim', age: 88}
         ]
     }
-    var myApp = angular.module('myApp', []).run(function ($rootScope){
+    var secondApp = angular.module('secondApp', []).run(function ($rootScope){
         $rootScope.pass = 'Romanoff';
     });
-    myApp.controller('zeroController', function ($scope) {
+    secondApp.controller('zeroController', function ($scope) {
         $scope.list = model;
         $scope.alarmItem = function (item) {
             alert(item.name + '-' + item.age);

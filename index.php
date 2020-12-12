@@ -28,6 +28,7 @@
 <ul>
     <li><a href="/frontend/angular/index1.php">First App</a></li>
     <li><a href="/frontend/angular/index2.php">try App</a></li>
+    <li><a href="/frontend/angular/index3.php">Show html</a></li>
 </ul>
 <!------------------------------->
 <hr>
