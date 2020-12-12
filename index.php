@@ -24,11 +24,12 @@
 </ul>
 <!-------------------------------->
 <hr>
-<h3>Angular</h3>
+<h3>AngularJS</h3>
 <ul>
-    <li><a href="/frontend/angular/index1.php">First App</a></li>
-    <li><a href="/frontend/angular/index2.php">try App</a></li>
-    <li><a href="/frontend/angular/index3.php">Show html</a></li>
+    <li><a href="/frontend/angularJS/index1.php">First App</a></li>
+    <li><a href="/frontend/angularJS/index2.php">try App</a></li>
+    <li><a href="/frontend/angularJS/index3.php">Show html</a></li>
+    <li><a href="/frontend/angularJS/index4.php">Filter and format</a></li>
 </ul>
 <!------------------------------->
 <hr>
