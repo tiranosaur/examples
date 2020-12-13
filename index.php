@@ -32,6 +32,7 @@
     <li><a href="/frontend/angularJS/index4.php">Filter and format</a></li>
     <li><a href="/frontend/angularJS/index5.php">Form validation</a></li>
     <li><a href="/frontend/angularJS/index6.php">Simple service</a></li>
+    <li><a href="/frontend/angularJS/index7.php">Http service</a></li>
 </ul>
 <!------------------------------->
 <hr>
