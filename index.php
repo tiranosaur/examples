@@ -30,6 +30,7 @@
     <li><a href="/frontend/angularJS/index2.php">try App</a></li>
     <li><a href="/frontend/angularJS/index3.php">Show html</a></li>
     <li><a href="/frontend/angularJS/index4.php">Filter and format</a></li>
+    <li><a href="/frontend/angularJS/index5.php">Form validation</a></li>
 </ul>
 <!------------------------------->
 <hr>
