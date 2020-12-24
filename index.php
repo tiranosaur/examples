@@ -15,6 +15,7 @@
 <hr>
 <h3>PHP</h3>
 <ul style="padding: 0">
+    <ol><a href="/cmpText.php">Campare two text with diff</a></ol>
     <ol><a href="/closure.php">Closure</a></ol>
     <ol><a href="/generator.php">Generator</a></ol>
     <ol><a href="/hightLevelFunction.php">Hight Level Function</a></ol>    
