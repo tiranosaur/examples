@@ -56,3 +56,10 @@ function htmlDiff($old, $new, $byChar = true)
     </form>
 <?php
 if (!empty($_POST)) echo htmlDiff($_POST['text1'], $_POST['text2']);
+
+
+$content = '<span>RomanoffAK440944</span>#####span style=background-color:red!!!!!RomanoffAK440944#####/span!!!!!';
+$content = htmlspecialchars($content);
+$content = str_replace(['#####', '!!!!!'], ['<', '>'], $content);
+?>
+<?= $content ?>
