@@ -44,5 +44,11 @@
     <li><a href="/frontend/accordionSimple/index.php">Simple Accordion</a></li>
 </ul>
 <!------------------------------->
+<hr>
+<h3>Patterns</h3>
+<ul>
+    <li><a href="/pattern/CreationalPatterns/factoryMethod.php">Factory Method</a></li>
+    <li><a href="/pattern/CreationalPatterns/factoryMethodSimple.php">Simple Factory Method (trait and static)</a></li>
+</ul>
 </body>
 </html>
