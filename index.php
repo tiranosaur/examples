@@ -18,7 +18,7 @@
     <ol><a href="/cmpText.php">Campare two text with diff</a></ol>
     <ol><a href="/closure.php">Closure</a></ol>
     <ol><a href="/generator.php">Generator</a></ol>
-    <ol><a href="/hightLevelFunction.php">Hight Level Function</a></ol>    
+    <ol><a href="/hightLevelFunction.php">Hight Level Function</a></ol>
     <ol><a href="/solid_O.php">Solid O</a></ol>
     <ol><a href="/recursion.php">Recursion</a></ol>
     <ol><a href="/lambda.php">Lambda</a></ol>
@@ -47,8 +47,14 @@
 <hr>
 <h3>Patterns</h3>
 <ul>
-    <li><a href="/pattern/CreationalPatterns/factoryMethod.php">Factory Method</a></li>
-    <li><a href="/pattern/CreationalPatterns/factoryMethodSimple.php">Simple Factory Method (trait and static)</a></li>
+    <li>
+        <h4>Creational pattern (порождающие)</h4>
+        <ul>
+            <li><a href="/pattern/CreationalPatterns/factoryMethod.php">Factory Method</a></li>
+            <li><a href="/pattern/CreationalPatterns/factoryMethodSimple.php">Simple Factory Method (trait and static)</a></li>
+            <li><a href="/pattern/CreationalPatterns/abstractFactory.php">AbstractFactory</a></li>
+        </ul>
+    </li>
 </ul>
 </body>
 </html>
