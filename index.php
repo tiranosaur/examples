@@ -23,6 +23,7 @@
     <ol><a href="/recursion.php">Recursion</a></ol>
     <ol><a href="/lambda.php">Lambda</a></ol>
     <ol><a href="/trait.php">Trait</a></ol>
+    <ol><a href="/self_static.php">Позднее статическое связывание(self static)</a></ol>
 </ul>
 <!-------------------------------->
 <hr>
@@ -53,6 +54,7 @@
             <li><a href="/pattern/CreationalPatterns/factoryMethod.php">Factory Method</a></li>
             <li><a href="/pattern/CreationalPatterns/factoryMethodSimple.php">Simple Factory Method (trait and static)</a></li>
             <li><a href="/pattern/CreationalPatterns/abstractFactory.php">AbstractFactory</a></li>
+            <li><a href="/pattern/CreationalPatterns/singleton.php">Singleton</a></li>
         </ul>
     </li>
 </ul>
