@@ -43,6 +43,7 @@
 <ul>
     <li><a href="/frontend/socialNetwork/index.php">Social slider</a></li>
     <li><a href="/frontend/accordionSimple/index.php">Simple Accordion</a></li>
+    <li><a href="/frontend/modal-popup/simple.php">Simple Modal(popup)window</a></li>
 </ul>
 <!------------------------------->
 <hr>
