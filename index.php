@@ -44,6 +44,7 @@
     <li><a href="/frontend/socialNetwork/index.php">Social slider</a></li>
     <li><a href="/frontend/accordionSimple/index.php">Simple Accordion</a></li>
     <li><a href="/frontend/modal-popup/simple.php">Simple Modal(popup)window</a></li>
+    <li><a href="/frontend/another_div_style/index.php">Change style another div</a></li>
 </ul>
 <!------------------------------->
 <hr>
