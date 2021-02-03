@@ -58,18 +58,26 @@
     }
 </style>
 
-<a class="button" href="#popup1">Let me Pop up</a>
+<a id="hrefpopup1" class="button" href="#popup1">Let me Pop up</a>
 
 <div id="popup1" class="overlay">
     <div class="popup">
         <h2>Here i am</h2>
-        <a class="close" href="#">&times;</a>
+        <a class="close" onclick="clearModal('hrefpopup1')">&times;</a>
         <div class="content">
             Thank to pop me out of that button, but now i'm done so you can close this window.
         </div>
     </div>
 </div>
+
 <script>
-    window.location.href = '#popup1'
-    document.onkeydown = (event)=>event.keyCode !== 27?'': window.location.href = '#'
+    function clearModal(id){
+        window.location.href = '#';
+        document.querySelector('#'+id).focus();
+        return false;
+    }
+
+    document.querySelector('.overlay').addEventListener('click',function (item){
+       if (item.target.classList.contains('overlay')) clearModal(item.target.id)
+    })
 </script>
