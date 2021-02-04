@@ -76,7 +76,11 @@
         document.querySelector('#'+id).focus();
         return false;
     }
-
+    //close by esc
+    window.addEventListener('keydown', function (event){
+        var str = window.location.href.split('#')[1];
+        if (str != undefined && event.keyCode == 27) clearModal(str);
+    })
     document.querySelector('.overlay').addEventListener('click',function (item){
        if (item.target.classList.contains('overlay')) clearModal(item.target.id)
     })
