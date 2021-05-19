@@ -48,6 +48,7 @@
     <li><a href="/frontend/another_div_style/index.php">Change style another div</a></li>
     <li><a href="/frontend/select_search/datalist.php">Select + serach = datalist</a></li>
     <li><a href="/frontend/float_button/index.php">Float Button</a></li>
+    <li><a href="/frontend/step-progress-bar/index.php">Step progress bar</a></li>
 </ul>
 <!------------------------------->
 <hr>
