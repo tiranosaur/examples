@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href="index.xsl"?>
+<root>
+    <title>Plant Shop</title>
+    <catalog>
+        <plant>
+            <common>Кровавый корень</common>
+            <botanical>Sanguinaria canadensis</botanical>
+            <zone>4</zone>
+            <light>По большей части тень</light>
+            <price>$2.44</price>
+            <availability>031599</availability>
+        </plant>
+        <plant>
+            <common>Аквилегия</common>
+            <botanical>Aquilegia canadensis</botanical>
+            <zone>3</zone>
+            <light>По большей части тень</light>
+            <price>$9.37</price>
+            <availability>030699</availability>
+        </plant>
+        <plant>
+            <common>Болотная Календула</common>
+            <botanical>Caltha palustris</botanical>
+            <zone>4</zone>
+            <light>По большей части свет</light>
+            <price>$6.81</price>
+            <availability>051799</availability>
+        </plant>
+        <plant>
+            <common>Первоцвет</common>
+            <botanical>Caltha palustris</botanical>
+            <zone>4</zone>
+            <light>По большей части тень</light>
+            <price>$9.90</price>
+            <availability>030699</availability>
+        </plant>
+        <plant>
+            <common>Борец Английский</common>
+            <botanical>Dicentra cucullaria</botanical>
+            <zone>3</zone>
+            <light>По большей части тень</light>
+            <price>$6.44</price>
+            <availability>012099</availability>
+        </plant>
+        <plant>
+            <common>Дикий Имбирь</common>
+            <botanical>Asarum canadense</botanical>
+            <zone>3</zone>
+            <light>По большей части тень</light>
+            <price>$9.03</price>
+            <availability>041899</availability>
+        </plant>
+        <plant>
+            <common>Перелеска</common>
+            <botanical>Hepatica americana</botanical>
+            <zone>4</zone>
+            <light>По большей части тень</light>
+            <price>$4.45</price>
+            <availability>012699</availability>
+        </plant>
+        <plant>
+            <common>Печеночница</common>
+            <botanical>Hepatica americana</botanical>
+            <zone>4</zone>
+            <light>По большей части тень</light>
+            <price>$3.99</price>
+            <availability>010299</availability>
+        </plant>
+        <plant>
+            <common>Аризема Трехлистная</common>
+            <botanical>Arisaema triphyllum</botanical>
+            <zone>4</zone>
+            <light>По большей части тень</light>
+            <price>$3.23</price>
+            <availability>020199</availability>
+        </plant>
+        <plant>
+            <common>Подофил</common>
+            <botanical>Podophyllum peltatum</botanical>
+            <zone>3</zone>
+            <light>По большей части тень</light>
+            <price>$2.98</price>
+            <availability>060599</availability>
+        </plant>
+        <plant>
+            <common>Флокс, Лесистая Местность</common>
+            <botanical>Phlox divaricata</botanical>
+            <zone>3</zone>
+            <light>Свет или тень</light>
+            <price>$2.80</price>
+            <availability>012299</availability>
+        </plant>
+        <plant>
+            <common>Флокс, Голубой</common>
+            <botanical>Phlox divaricata</botanical>
+            <zone>3</zone>
+            <light>Свет или тень</light>
+            <price>$5.59</price>
+            <availability>021699</availability>
+        </plant>
+        <plant>
+            <common>Клейтония</common>
+            <botanical>Claytonia Virginica</botanical>
+            <zone>7</zone>
+            <light>По большей части тень</light>
+            <price>$6.59</price>
+            <availability>020199</availability>
+        </plant>
+        <plant>
+            <common>Триллиум</common>
+            <botanical>Trillium grandiflorum</botanical>
+            <zone>5</zone>
+            <light>Свет или тень</light>
+            <price>$3.90</price>
+            <availability>042999</availability>
+        </plant>
+        <plant>
+            <common>Триллиум</common>
+            <botanical>Trillium grandiflorum</botanical>
+            <zone>5</zone>
+            <light>Свет или тень</light>
+            <price>$3.20</price>
+            <availability>022199</availability>
+        </plant>
+        <plant>
+            <common>Фиалка, "Пёсий Клык"</common>
+            <botanical>Erythronium americanum</botanical>
+            <zone>4</zone>
+            <light>Тень</light>
+            <price>$9.04</price>
+            <availability>020199</availability>
+        </plant>
+        <plant>
+            <common>Форелевая Лилия</common>
+            <botanical>Erythronium americanum</botanical>
+            <zone>4</zone>
+            <light>Тень</light>
+            <price>$6.94</price>
+            <availability>032499</availability>
+        </plant>
+        <plant>
+            <common>Ужовник</common>
+            <botanical>Erythronium americanum</botanical>
+            <zone>4</zone>
+            <light>Тень</light>
+            <price>$9.58</price>
+            <availability>041399</availability>
+        </plant>
+        <plant>
+            <common>Ветреница</common>
+            <botanical>Anemone blanda</botanical>
+            <zone>6</zone>
+            <light>По большей части тень</light>
+            <price>$8.86</price>
+            <availability>122698</availability>
+        </plant>
+        <plant>
+            <common>Греческая Ветреница</common>
+            <botanical>Anemone blanda</botanical>
+            <zone>6</zone>
+            <light>По большей части тень</light>
+            <price>$9.16</price>
+            <availability>071099</availability>
+        </plant>
+        <plant>
+            <common>Пчелиный Бальзам</common>
+            <botanical>Monarda didyma</botanical>
+            <zone>4</zone>
+            <light>Тень</light>
+            <price>$4.59</price>
+            <availability>050399</availability>
+        </plant>
+        <plant>
+            <common>Бергамот</common>
+            <botanical>Monarda didyma</botanical>
+            <zone>4</zone>
+            <light>Тень</light>
+            <price>$7.16</price>
+            <availability>042799</availability>
+        </plant>
+        <plant>
+            <common>Черноглазый Гибискус</common>
+            <botanical>Rudbeckia hirta</botanical>
+            <zone>Годичный</zone>
+            <light>Свет</light>
+            <price>$9.80</price>
+            <availability>061899</availability>
+        </plant>
+        <plant>
+            <common>Лютик</common>
+            <botanical>Ranunculus</botanical>
+            <zone>4</zone>
+            <light>Тень</light>
+            <price>$2.57</price>
+            <availability>061099</availability>
+        </plant>
+        <plant>
+            <common>Лютик</common>
+            <botanical>Ranunculus</botanical>
+            <zone>4</zone>
+            <light>Тень</light>
+            <price>$9.34</price>
+            <availability>040399</availability>
+        </plant>
+        <plant>
+            <common>Бабочкина Травка</common>
+            <botanical>Asclepias tuberosa</botanical>
+            <zone>Годичный</zone>
+            <light>Свет</light>
+            <price>$2.78</price>
+            <availability>063099</availability>
+        </plant>
+        <plant>
+            <common>Лапчатка</common>
+            <botanical>Potentilla</botanical>
+            <zone>Годичный</zone>
+            <light>Тень</light>
+            <price>$7.06</price>
+            <availability>052599</availability>
+        </plant>
+        <plant>
+            <common>Примула</common>
+            <botanical>Oenothera</botanical>
+            <zone>3 - 5</zone>
+            <light>Свет</light>
+            <price>$6.56</price>
+            <availability>013099</availability>
+        </plant>
+        <plant>
+            <common>Горечавка</common>
+            <botanical>Gentiana</botanical>
+            <zone>4</zone>
+            <light>Свет или тень</light>
+            <price>$7.81</price>
+            <availability>051899</availability>
+        </plant>
+        <plant>
+            <common>Голубая Горечавка</common>
+            <botanical>Gentiana</botanical>
+            <zone>4</zone>
+            <light>Свет или тень</light>
+            <price>$8.56</price>
+            <availability>050299</availability>
+        </plant>
+        <plant>
+            <common>Лестница Джейкобса</common>
+            <botanical>Polemonium caeruleum</botanical>
+            <zone>Годичный</zone>
+            <light>Тень</light>
+            <price>$9.26</price>
+            <availability>022199</availability>
+        </plant>
+        <plant>
+            <common>Греческая Валериана</common>
+            <botanical>Polemonium caeruleum</botanical>
+            <zone>Годичный</zone>
+            <light>Тень</light>
+            <price>$4.36</price>
+            <availability>071499</availability>
+        </plant>
+        <plant>
+            <common>Калифорнийский Мак</common>
+            <botanical>Eschscholzia californica</botanical>
+            <zone>Годичный</zone>
+            <light>Свет</light>
+            <price>$7.89</price>
+            <availability>032799</availability>
+        </plant>
+        <plant>
+            <common>Стреляющая Звезда</common>
+            <botanical>Dodecatheon</botanical>
+            <zone>Годичный</zone>
+            <light>По большей части тень</light>
+            <price>$8.60</price>
+            <availability>051399</availability>
+        </plant>
+        <plant>
+            <common>Змеиный Корень</common>
+            <botanical>Cimicifuga</botanical>
+            <zone>Годичный</zone>
+            <light>Тень</light>
+            <price>$5.63</price>
+            <availability>071199</availability>
+        </plant>
+        <plant>
+            <common>Цветок Кардинала</common>
+            <botanical>Lobelia cardinalis</botanical>
+            <zone>2</zone>
+            <light>Тень</light>
+            <price>$3.02</price>
+            <availability>022299</availability>
+        </plant>
+    </catalog>
+</root>

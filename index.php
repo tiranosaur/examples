@@ -64,5 +64,12 @@
         </ul>
     </li>
 </ul>
+<!------------------------------->
+<hr>
+<h3>XML + XSLT</h3>
+<ul>
+    <li><a href="/xslt/index.xml">simple xsl</a></li>
+    <li><a href="/xslt/indexJSON.xml">xml to json</a></li>
+</ul>
 </body>
 </html>
