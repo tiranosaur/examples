@@ -69,7 +69,9 @@
 <h3>XML + XSLT</h3>
 <ul>
     <li><a href="/xslt/index.xml">simple xsl</a></li>
-    <li><a href="/xslt/indexJSON.xml">xml to json</a></li>
+    <li><a href="/xslt/indexXmlToJson.xml">xml to json</a></li>
+    <li><a href="/xslt/indexJsonToXml.xml">json to xml</a></li>
+    <li><a href="/xslt/indexString.xml">xsl string</a></li>
 </ul>
 </body>
 </html>

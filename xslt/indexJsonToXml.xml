@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href="indexJsonToXml.xsl"?>
+<data>
+{
+  "Order": {
+    "InvestmentAccount": {
+      "AccountNumber": "10"
+    },
+    "Parcel": {
+      "Limit": "0",
+      "ExpiryDate": "1900-01-01T00:00:00",
+      "Asset": [
+        {
+          "Open": "25.25",
+          "High": "25.35",
+          "Low": "25.123",
+          "Close": "25.1223"
+        },{
+          "Open": "25.15",
+          "High": "25.15",
+          "Low": "25.11",
+          "Close": "25.87"
+        }
+      ]
+    },
+    "OrderDate": "2012-10-11T21:46:03.6489906+11:00"
+  }
+}
+</data>

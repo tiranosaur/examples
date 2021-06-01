@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="3.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:template match="/">
         <html>
             <body>
                 <h1>
                     <xsl:value-of select="root/title"/>
                 </h1>
-                <table border="1" >
+                <table border="1">
                     <tr style="background-color:green; color:white;">
                         <th>common</th>
                         <th>botanical</th>
@@ -18,7 +17,9 @@
                     <xsl:for-each select="root/catalog/plant">
                         <tr>
                             <td>
-                                <xsl:value-of select="common"/>
+                                <xsl:if test="zone!=5">
+                                    <xsl:value-of select="common"/>
+                                </xsl:if>
                             </td>
                             <td>
                                 <xsl:value-of select="botanical"/>

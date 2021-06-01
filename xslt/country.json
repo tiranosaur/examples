@@ -1,0 +1,2022 @@
+[
+  {
+    "UTC": "+4",
+    "country code": "AF",
+    "dial-in code": "+93",
+    "name": {
+      "EN": "Afghanistan",
+      "RU": "Афганистан"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "AL",
+    "dial-in code": "+355",
+    "name": {
+      "EN": "Albania",
+      "RU": "Албания"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "DZ",
+    "dial-in code": "+213",
+    "name": {
+      "EN": "Algeria",
+      "RU": "Алжир"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+2",
+    "country code": "AD",
+    "dial-in code": "+376",
+    "name": {
+      "EN": "Andorra",
+      "RU": "Андорра"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+1",
+    "country code": "AO",
+    "dial-in code": "+244",
+    "name": {
+      "EN": "Angola",
+      "RU": "Ангола"
+    },
+    "preferred language": "PT"
+  },
+  {
+    "UTC": "-4",
+    "country code": "AG",
+    "dial-in code": "+1268",
+    "name": {
+      "EN": "Antigua and Barbuda",
+      "RU": "Антигуа и Барбуда"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-3",
+    "country code": "AR",
+    "dial-in code": "+54",
+    "name": {
+      "EN": "Argentina",
+      "RU": "Аргентина"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+4",
+    "country code": "AM",
+    "dial-in code": "+374",
+    "name": {
+      "EN": "Armenia",
+      "RU": "Армения"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "-4",
+    "country code": "AW",
+    "dial-in code": "+297",
+    "name": {
+      "EN": "Aruba",
+      "RU": "Аруба"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+10",
+    "country code": "AU",
+    "dial-in code": "+61",
+    "name": {
+      "EN": "Australia",
+      "RU": "Австралия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "AT",
+    "dial-in code": "+43",
+    "name": {
+      "EN": "Austria",
+      "RU": "Австрия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+4",
+    "country code": "AZ",
+    "dial-in code": "+994",
+    "name": {
+      "EN": "Azerbaijan",
+      "RU": "Азербайджан"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "-4",
+    "country code": "BS",
+    "dial-in code": "+1242",
+    "name": {
+      "EN": "Bahamas",
+      "RU": "Багамы"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "BH",
+    "dial-in code": "+973",
+    "name": {
+      "EN": "Bahrain",
+      "RU": "Бахрейн"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+6",
+    "country code": "BD",
+    "dial-in code": "+880",
+    "name": {
+      "EN": "Bangladesh",
+      "RU": "Бангладеш"
+    },
+    "preferred language": "BD"
+  },
+  {
+    "UTC": "-4",
+    "country code": "BB",
+    "dial-in code": "+1246",
+    "name": {
+      "EN": "Barbados",
+      "RU": "Барбадос"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "BY",
+    "dial-in code": "+375",
+    "name": {
+      "EN": "Belarus",
+      "RU": "Беларусь"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "+2",
+    "country code": "BE",
+    "dial-in code": "+32",
+    "name": {
+      "EN": "Belgium",
+      "RU": "Бельгия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-6",
+    "country code": "BZ",
+    "dial-in code": "+501",
+    "name": {
+      "EN": "Belize",
+      "RU": "Белиз"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "BJ",
+    "dial-in code": "+229",
+    "name": {
+      "EN": "Benin",
+      "RU": "Бенин"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-3",
+    "country code": "BM",
+    "dial-in code": "+1441",
+    "name": {
+      "EN": "Bermuda",
+      "RU": "Бермудские о-ва"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+6",
+    "country code": "BT",
+    "dial-in code": "+975",
+    "name": {
+      "EN": "Bhutan",
+      "RU": "Бутан"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "BG",
+    "dial-in code": "+359",
+    "name": {
+      "EN": "Bulgaria",
+      "RU": "Болгария"
+    },
+    "preferred language": "BG"
+  },
+  {
+    "UTC": "-4",
+    "country code": "BO",
+    "dial-in code": "+591",
+    "name": {
+      "EN": "Bolivia",
+      "RU": "Боливия"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+2",
+    "country code": "BA",
+    "dial-in code": "+387",
+    "name": {
+      "EN": "Bosnia and Herzegovina",
+      "RU": "Босния"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "BW",
+    "dial-in code": "+267",
+    "name": {
+      "EN": "Botswana",
+      "RU": "Ботсвана"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-3",
+    "country code": "BR",
+    "dial-in code": "+55",
+    "name": {
+      "EN": "Brazil",
+      "RU": "Бразилия"
+    },
+    "preferred language": "PT"
+  },
+  {
+    "UTC": "+8",
+    "country code": "BN",
+    "dial-in code": "+673",
+    "name": {
+      "EN": "Brunei",
+      "RU": "Бруней Даруссалам"
+    },
+    "preferred language": "MS"
+  },
+  {
+    "UTC": "+0",
+    "country code": "BF",
+    "dial-in code": "+226",
+    "name": {
+      "EN": "Burkina Faso",
+      "RU": "Буркина Фасо"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "BI",
+    "dial-in code": "+257",
+    "name": {
+      "EN": "Burundi",
+      "RU": "Бурунди"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+7",
+    "country code": "KH",
+    "dial-in code": "+855",
+    "name": {
+      "EN": "Cambodia",
+      "RU": "Камбоджа"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "CM",
+    "dial-in code": "+237",
+    "name": {
+      "EN": "Cameroon",
+      "RU": "Камерун"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "CA",
+    "dial-in code": "+1",
+    "name": {
+      "EN": "Canada",
+      "RU": "Канада"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-1",
+    "country code": "CV",
+    "dial-in code": "+238",
+    "name": {
+      "EN": "Cape Verde",
+      "RU": "Острова Зеленого Мыса"
+    },
+    "preferred language": "PT"
+  },
+  {
+    "UTC": "-5",
+    "country code": "KY",
+    "dial-in code": "+1345",
+    "name": {
+      "EN": "Cayman Islands",
+      "RU": "Каймановы Острова"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "CF",
+    "dial-in code": "+236",
+    "name": {
+      "EN": "Central African Republic",
+      "RU": "ЦАР"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "TD",
+    "dial-in code": "+235",
+    "name": {
+      "EN": "Chad",
+      "RU": "Чад"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "-4",
+    "country code": "CL",
+    "dial-in code": "+56",
+    "name": {
+      "EN": "Chile",
+      "RU": "Чили"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+8",
+    "country code": "CN",
+    "dial-in code": "+86",
+    "name": {
+      "EN": "China",
+      "RU": "Китай"
+    },
+    "preferred language": "CN"
+  },
+  {
+    "UTC": "-5",
+    "country code": "CO",
+    "dial-in code": "+57",
+    "name": {
+      "EN": "Colombia",
+      "RU": "Колумбия"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+3",
+    "country code": "KM",
+    "dial-in code": "+269",
+    "name": {
+      "EN": "Comoros",
+      "RU": "Коморские о-ва"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "CD",
+    "dial-in code": "+242",
+    "name": {
+      "EN": "Congo",
+      "RU": "Конго"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-6",
+    "country code": "CR",
+    "dial-in code": "+506",
+    "name": {
+      "EN": "Costa Rica",
+      "RU": "Коста-Рика"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+0",
+    "country code": "CI",
+    "dial-in code": "+225",
+    "name": {
+      "EN": "Cote Divoire",
+      "RU": "Кот-д'Ивуар"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "HR",
+    "dial-in code": "+385",
+    "name": {
+      "EN": "Croatia",
+      "RU": "Хорватия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "CU",
+    "dial-in code": "+53",
+    "name": {
+      "EN": "Cuba",
+      "RU": "Куба"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+3",
+    "country code": "CY",
+    "dial-in code": "+357",
+    "name": {
+      "EN": "Cyprus",
+      "RU": "Кипр"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "CZ",
+    "dial-in code": "+420",
+    "name": {
+      "EN": "Czech Republic",
+      "RU": "Чешская Республика"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "CG",
+    "dial-in code": "+243",
+    "name": {
+      "EN": "Democratic Republic of the Congo",
+      "RU": "Демократическая Республика Конго"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "DK",
+    "dial-in code": "+45",
+    "name": {
+      "EN": "Denmark",
+      "RU": "Дания"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "DJ",
+    "dial-in code": "+253",
+    "name": {
+      "EN": "Djibouti",
+      "RU": "Джибути"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "-4",
+    "country code": "DM",
+    "dial-in code": "+1767",
+    "name": {
+      "EN": "Dominica",
+      "RU": "Остров Доминика"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "DO",
+    "dial-in code": "+18",
+    "name": {
+      "EN": "Dominican Republic",
+      "RU": "Доминиканская Республика"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "-4",
+    "country code": "EC",
+    "dial-in code": "+593",
+    "name": {
+      "EN": "Ecuador",
+      "RU": "Эквадор"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+2",
+    "country code": "EG",
+    "dial-in code": "+20",
+    "name": {
+      "EN": "Egypt",
+      "RU": "Египет"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "-6",
+    "country code": "SV",
+    "dial-in code": "+503",
+    "name": {
+      "EN": "El Salvador",
+      "RU": "Сальвадор"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+1",
+    "country code": "GQ",
+    "dial-in code": "+240",
+    "name": {
+      "EN": "Equatorial Guinea",
+      "RU": "Экваториальная Гвинея"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+3",
+    "country code": "ER",
+    "dial-in code": "+291",
+    "name": {
+      "EN": "Eritrea",
+      "RU": "Эритрея"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "EE",
+    "dial-in code": "+372",
+    "name": {
+      "EN": "Estonia",
+      "RU": "Эстония"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "+3",
+    "country code": "ET",
+    "dial-in code": "+251",
+    "name": {
+      "EN": "Ethiopia",
+      "RU": "Эфиопия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-3",
+    "country code": "FK",
+    "dial-in code": "+500",
+    "name": {
+      "EN": "Falkland Islands",
+      "RU": "Фолклендские о-ва"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "FO",
+    "dial-in code": "+298",
+    "name": {
+      "EN": "Faroe Islands",
+      "RU": "Фарерские о-ва"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+12",
+    "country code": "FJ",
+    "dial-in code": "+679",
+    "name": {
+      "EN": "Fiji",
+      "RU": "Фиджи"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "FI",
+    "dial-in code": "+358",
+    "name": {
+      "EN": "Finland",
+      "RU": "Финляндия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "FR",
+    "dial-in code": "+33",
+    "name": {
+      "EN": "France",
+      "RU": "Франция"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "GA",
+    "dial-in code": "+241",
+    "name": {
+      "EN": "Gabon",
+      "RU": "Габон"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+0",
+    "country code": "GM",
+    "dial-in code": "+220",
+    "name": {
+      "EN": "Gambia",
+      "RU": "Гамбия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+4",
+    "country code": "GE",
+    "dial-in code": "+995",
+    "name": {
+      "EN": "Georgia",
+      "RU": "Грузия"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "+2",
+    "country code": "DE",
+    "dial-in code": "+49",
+    "name": {
+      "EN": "Germany",
+      "RU": "Германия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+0",
+    "country code": "GH",
+    "dial-in code": "+233",
+    "name": {
+      "EN": "Ghana",
+      "RU": "Гана"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "GI",
+    "dial-in code": "+350",
+    "name": {
+      "EN": "Gibraltar",
+      "RU": "Гибралтар"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "GR",
+    "dial-in code": "+30",
+    "name": {
+      "EN": "Greece",
+      "RU": "Греция"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "GD",
+    "dial-in code": "+1473",
+    "name": {
+      "EN": "Grenada",
+      "RU": "Гренада"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-6",
+    "country code": "GT",
+    "dial-in code": "+502",
+    "name": {
+      "EN": "Guatemala",
+      "RU": "Гватемала"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+0",
+    "country code": "GN",
+    "dial-in code": "+224",
+    "name": {
+      "EN": "Guinea",
+      "RU": "Гвинея"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+0",
+    "country code": "GW",
+    "dial-in code": "+245",
+    "name": {
+      "EN": "Guinea-Bissau",
+      "RU": "Гвинея-Биссау"
+    },
+    "preferred language": "PT"
+  },
+  {
+    "UTC": "-4",
+    "country code": "GY",
+    "dial-in code": "+592",
+    "name": {
+      "EN": "Guyana",
+      "RU": "Гайана"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "HT",
+    "dial-in code": "+509",
+    "name": {
+      "EN": "Haiti",
+      "RU": "Гаити"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-6",
+    "country code": "HN",
+    "dial-in code": "+504",
+    "name": {
+      "EN": "Honduras",
+      "RU": "Гондурас"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+8",
+    "country code": "HK",
+    "dial-in code": "+852",
+    "name": {
+      "EN": "Hong Kong",
+      "RU": "Гонконг"
+    },
+    "preferred language": "CN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "HU",
+    "dial-in code": "+36",
+    "name": {
+      "EN": "Hungary",
+      "RU": "Венгрия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+0",
+    "country code": "IS",
+    "dial-in code": "+354",
+    "name": {
+      "EN": "Iceland",
+      "RU": "Исландия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+5",
+    "country code": "IN",
+    "dial-in code": "+91",
+    "name": {
+      "EN": "India",
+      "RU": "Индия"
+    },
+    "preferred language": "IN"
+  },
+  {
+    "UTC": "+7",
+    "country code": "ID",
+    "dial-in code": "+62",
+    "name": {
+      "EN": "Indonesia",
+      "RU": "Индонезия"
+    },
+    "preferred language": "ID"
+  },
+  {
+    "UTC": "+4",
+    "country code": "IR",
+    "dial-in code": "+98",
+    "name": {
+      "EN": "Iran",
+      "RU": "Иран"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "IQ",
+    "dial-in code": "+964",
+    "name": {
+      "EN": "Iraq",
+      "RU": "Ирак"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+1",
+    "country code": "IE",
+    "dial-in code": "+353",
+    "name": {
+      "EN": "Ireland",
+      "RU": "Ирландия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "IL",
+    "dial-in code": "+972",
+    "name": {
+      "EN": "Israel",
+      "RU": "Израиль"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+2",
+    "country code": "IT",
+    "dial-in code": "+39",
+    "name": {
+      "EN": "Italy",
+      "RU": "Италия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-5",
+    "country code": "JM",
+    "dial-in code": "+1876",
+    "name": {
+      "EN": "Jamaica",
+      "RU": "Ямайка"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+9",
+    "country code": "JP",
+    "dial-in code": "+81",
+    "name": {
+      "EN": "Japan",
+      "RU": "Япония"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "JO",
+    "dial-in code": "+962",
+    "name": {
+      "EN": "Jordan",
+      "RU": "Иордания"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+6",
+    "country code": "KZ",
+    "dial-in code": "+7",
+    "name": {
+      "EN": "Kazakhstan",
+      "RU": "Казахстан"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "+3",
+    "country code": "KE",
+    "dial-in code": "+254",
+    "name": {
+      "EN": "Kenya",
+      "RU": "Кения"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+12",
+    "country code": "KI",
+    "dial-in code": "+686",
+    "name": {
+      "EN": "Kiribati",
+      "RU": "Кирибати"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "KW",
+    "dial-in code": "+965",
+    "name": {
+      "EN": "Kuwait",
+      "RU": "Кувейт"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+6",
+    "country code": "KG",
+    "dial-in code": "+996",
+    "name": {
+      "EN": "Kyrgyzstan",
+      "RU": "Кыргызстан"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "+7",
+    "country code": "LA",
+    "dial-in code": "+856",
+    "name": {
+      "EN": "Laos",
+      "RU": "Лаос"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "LV",
+    "dial-in code": "+371",
+    "name": {
+      "EN": "Latvia",
+      "RU": "Латвия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "LB",
+    "dial-in code": "+961",
+    "name": {
+      "EN": "Lebanon",
+      "RU": "Ливан"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+2",
+    "country code": "LS",
+    "dial-in code": "+266",
+    "name": {
+      "EN": "Lesotho",
+      "RU": "Лесото"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+0",
+    "country code": "LR",
+    "dial-in code": "+231",
+    "name": {
+      "EN": "Liberia",
+      "RU": "Либерия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "LY",
+    "dial-in code": "+218",
+    "name": {
+      "EN": "Libya",
+      "RU": "Ливия"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+2",
+    "country code": "LI",
+    "dial-in code": "+423",
+    "name": {
+      "EN": "Liechtenstein",
+      "RU": "Лихтенштейн"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "LT",
+    "dial-in code": "+370",
+    "name": {
+      "EN": "Lithuania",
+      "RU": "Литва"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "LU",
+    "dial-in code": "+352",
+    "name": {
+      "EN": "Luxembourg",
+      "RU": "Люксембург"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+8",
+    "country code": "MO",
+    "dial-in code": "+853",
+    "name": {
+      "EN": "Macao",
+      "RU": "Макао"
+    },
+    "preferred language": "PT"
+  },
+  {
+    "UTC": "+2",
+    "country code": "MK",
+    "dial-in code": "+389",
+    "name": {
+      "EN": "Macedonia",
+      "RU": "Македония"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "MG",
+    "dial-in code": "+261",
+    "name": {
+      "EN": "Madagascar",
+      "RU": "Мадагаскар"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "MW",
+    "dial-in code": "+265",
+    "name": {
+      "EN": "Malawi",
+      "RU": "Малави"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+8",
+    "country code": "MY",
+    "dial-in code": "+60",
+    "name": {
+      "EN": "Malaysia",
+      "RU": "Малайзия"
+    },
+    "preferred language": "MS"
+  },
+  {
+    "UTC": "+5",
+    "country code": "MV",
+    "dial-in code": "+960",
+    "name": {
+      "EN": "Maldives",
+      "RU": "Мальдивские о-ва"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+0",
+    "country code": "ML",
+    "dial-in code": "+223",
+    "name": {
+      "EN": "Mali",
+      "RU": "Мали"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "MT",
+    "dial-in code": "+356",
+    "name": {
+      "EN": "Malta",
+      "RU": "Мальта"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+12",
+    "country code": "MH",
+    "dial-in code": "+692",
+    "name": {
+      "EN": "Marshall",
+      "RU": "Маршалловы о-ва"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+0",
+    "country code": "MR",
+    "dial-in code": "+222",
+    "name": {
+      "EN": "Mauritania",
+      "RU": "Мавритания"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+4",
+    "country code": "MU",
+    "dial-in code": "+230",
+    "name": {
+      "EN": "Mauritius",
+      "RU": "Маврикий"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-5",
+    "country code": "MX",
+    "dial-in code": "+52",
+    "name": {
+      "EN": "Mexico",
+      "RU": "Мексика"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+11",
+    "country code": "FM",
+    "dial-in code": "+691",
+    "name": {
+      "EN": "Micronesia",
+      "RU": "Микронезия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "MD",
+    "dial-in code": "+373",
+    "name": {
+      "EN": "Moldova",
+      "RU": "Молдова"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "+2",
+    "country code": "MC",
+    "dial-in code": "+377",
+    "name": {
+      "EN": "Monaco",
+      "RU": "Монако"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+8",
+    "country code": "MN",
+    "dial-in code": "+976",
+    "name": {
+      "EN": "Mongolia",
+      "RU": "Монголия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "ME",
+    "dial-in code": "+382",
+    "name": {
+      "EN": "Montenegro",
+      "RU": "Черногория"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "MA",
+    "dial-in code": "+212",
+    "name": {
+      "EN": "Morocco",
+      "RU": "Марокко"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+2",
+    "country code": "MZ",
+    "dial-in code": "+258",
+    "name": {
+      "EN": "Mozambique",
+      "RU": "Мозамбик"
+    },
+    "preferred language": "PT"
+  },
+  {
+    "UTC": "+6",
+    "country code": "MM",
+    "dial-in code": "+95",
+    "name": {
+      "EN": "Myanmar",
+      "RU": "Мьянма"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "NA",
+    "dial-in code": "+264",
+    "name": {
+      "EN": "Namibia",
+      "RU": "Намибия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+12",
+    "country code": "NR",
+    "dial-in code": "+674",
+    "name": {
+      "EN": "Nauru",
+      "RU": "Науру"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+6",
+    "country code": "NP",
+    "dial-in code": "+977",
+    "name": {
+      "EN": "Nepal",
+      "RU": "Непал"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "NL",
+    "dial-in code": "+31",
+    "name": {
+      "EN": "Netherlands",
+      "RU": "Нидерланды"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "AN",
+    "dial-in code": "+599",
+    "name": {
+      "EN": "Netherlands Antilles",
+      "RU": "Нидерландские Антильские о-ва"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+12",
+    "country code": "NZ",
+    "dial-in code": "+64",
+    "name": {
+      "EN": "New Zealand",
+      "RU": "Новая Зеландия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-6",
+    "country code": "NI",
+    "dial-in code": "+505",
+    "name": {
+      "EN": "Nicaragua",
+      "RU": "Никарагуа"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+1",
+    "country code": "NE",
+    "dial-in code": "+227",
+    "name": {
+      "EN": "Niger",
+      "RU": "Нигер"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "NG",
+    "dial-in code": "+234",
+    "name": {
+      "EN": "Nigeria",
+      "RU": "Нигерия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+9",
+    "country code": "KP",
+    "dial-in code": "+850",
+    "name": {
+      "EN": "North Korea",
+      "RU": "Северная Корея"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "NO",
+    "dial-in code": "+47",
+    "name": {
+      "EN": "Norway",
+      "RU": "Норвегия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+4",
+    "country code": "OM",
+    "dial-in code": "+968",
+    "name": {
+      "EN": "Oman",
+      "RU": "Оман"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+5",
+    "country code": "PK",
+    "dial-in code": "+92",
+    "name": {
+      "EN": "Pakistan",
+      "RU": "Пакистан"
+    },
+    "preferred language": "PK"
+  },
+  {
+    "UTC": "+9",
+    "country code": "PW",
+    "dial-in code": "+680",
+    "name": {
+      "EN": "Palau",
+      "RU": "Палау"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-5",
+    "country code": "PA",
+    "dial-in code": "+507",
+    "name": {
+      "EN": "Panama",
+      "RU": "Панама"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+10",
+    "country code": "PG",
+    "dial-in code": "+675",
+    "name": {
+      "EN": "Papua New Guinea",
+      "RU": "Папуа – Новая Гвинея"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "PY",
+    "dial-in code": "+595",
+    "name": {
+      "EN": "Paraguay",
+      "RU": "Парагвай"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "-5",
+    "country code": "PE",
+    "dial-in code": "+51",
+    "name": {
+      "EN": "Peru",
+      "RU": "Перу"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+8",
+    "country code": "PH",
+    "dial-in code": "+63",
+    "name": {
+      "EN": "Philippines",
+      "RU": "Филиппины"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "PL",
+    "dial-in code": "+48",
+    "name": {
+      "EN": "Poland",
+      "RU": "Польша"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "PT",
+    "dial-in code": "+351",
+    "name": {
+      "EN": "Portugal",
+      "RU": "Португалия"
+    },
+    "preferred language": "PT"
+  },
+  {
+    "UTC": "+3",
+    "country code": "QA",
+    "dial-in code": "+974",
+    "name": {
+      "EN": "Qatar",
+      "RU": "Катар"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+3",
+    "country code": "RO",
+    "dial-in code": "+40",
+    "name": {
+      "EN": "Romania",
+      "RU": "Румыния"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "RU",
+    "dial-in code": "+7",
+    "name": {
+      "EN": "Russia",
+      "RU": "Россия"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "+2",
+    "country code": "RW",
+    "dial-in code": "+250",
+    "name": {
+      "EN": "Rwanda",
+      "RU": "Руанда"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "KN",
+    "dial-in code": "+1869",
+    "name": {
+      "EN": "Saint Kitts and Nevis",
+      "RU": "Сент-Киттс и Невис"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "LC",
+    "dial-in code": "+1758",
+    "name": {
+      "EN": "Saint Lucia",
+      "RU": "Сент-Люсия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "VC",
+    "dial-in code": "+1784",
+    "name": {
+      "EN": "Saint Vincent And The Grenadines",
+      "RU": "Сент-Винсент и Гренадины"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "SM",
+    "dial-in code": "+378",
+    "name": {
+      "EN": "San Marino",
+      "RU": "Сан-Марино"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+0",
+    "country code": "ST",
+    "dial-in code": "+239",
+    "name": {
+      "EN": "Sao Tome and Principe",
+      "RU": "Сан-Томе и Принсипе"
+    },
+    "preferred language": "PT"
+  },
+  {
+    "UTC": "+3",
+    "country code": "SA",
+    "dial-in code": "+966",
+    "name": {
+      "EN": "Saudi Arabia",
+      "RU": "Саудовская Аравия"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+0",
+    "country code": "SN",
+    "dial-in code": "+221",
+    "name": {
+      "EN": "Senegal",
+      "RU": "Сенегал"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "RS",
+    "dial-in code": "+381",
+    "name": {
+      "EN": "Serbia",
+      "RU": "Сербия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+4",
+    "country code": "SC",
+    "dial-in code": "+248",
+    "name": {
+      "EN": "Seychelles",
+      "RU": "Сейшельские о-ва"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+0",
+    "country code": "SL",
+    "dial-in code": "+232",
+    "name": {
+      "EN": "Sierra Leone",
+      "RU": "Сьерра-Леоне"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+8",
+    "country code": "SG",
+    "dial-in code": "+65",
+    "name": {
+      "EN": "Singapore",
+      "RU": "Сингапур"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "SK",
+    "dial-in code": "+421",
+    "name": {
+      "EN": "Slovak Republic",
+      "RU": "Словакия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "SI",
+    "dial-in code": "+386",
+    "name": {
+      "EN": "Slovenia",
+      "RU": "Словения"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+11",
+    "country code": "SB",
+    "dial-in code": "+677",
+    "name": {
+      "EN": "Solomon Islands",
+      "RU": "Соломонские о-ва"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "SO",
+    "dial-in code": "+252",
+    "name": {
+      "EN": "Somalia",
+      "RU": "Сомали"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+2",
+    "country code": "ZA",
+    "dial-in code": "+27",
+    "name": {
+      "EN": "South Africa",
+      "RU": "ЮАР"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+9",
+    "country code": "KR",
+    "dial-in code": "+82",
+    "name": {
+      "EN": "South Korea",
+      "RU": "Южная Корея"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "ES",
+    "dial-in code": "+34",
+    "name": {
+      "EN": "Spain",
+      "RU": "Испания"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+5",
+    "country code": "LK",
+    "dial-in code": "+94",
+    "name": {
+      "EN": "Sri Lanka",
+      "RU": "Шри-Ланка"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "SD",
+    "dial-in code": "+249",
+    "name": {
+      "EN": "Sudan",
+      "RU": "Судан"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "-3",
+    "country code": "SR",
+    "dial-in code": "+597",
+    "name": {
+      "EN": "Suriname",
+      "RU": "Суринам"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "SZ",
+    "dial-in code": "+268",
+    "name": {
+      "EN": "Swaziland",
+      "RU": "Свазиленд"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "SE",
+    "dial-in code": "+46",
+    "name": {
+      "EN": "Sweden",
+      "RU": "Швеция"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "CH",
+    "dial-in code": "+41",
+    "name": {
+      "EN": "Switzerland",
+      "RU": "Швейцария"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "SY",
+    "dial-in code": "+963",
+    "name": {
+      "EN": "Syria",
+      "RU": "Сирийская Арабская Республика"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+8",
+    "country code": "TW",
+    "dial-in code": "+886",
+    "name": {
+      "EN": "Taiwan",
+      "RU": "Тайвань"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+5",
+    "country code": "TJ",
+    "dial-in code": "+992",
+    "name": {
+      "EN": "Tajikistan",
+      "RU": "Таджикистан"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "+3",
+    "country code": "TZ",
+    "dial-in code": "+255",
+    "name": {
+      "EN": "Tanzania",
+      "RU": "Танзания"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+7",
+    "country code": "TH",
+    "dial-in code": "+66",
+    "name": {
+      "EN": "Thailand",
+      "RU": "Тайланд"
+    },
+    "preferred language": "TH"
+  },
+  {
+    "UTC": "+0",
+    "country code": "TG",
+    "dial-in code": "+228",
+    "name": {
+      "EN": "Togo",
+      "RU": "Того"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+13",
+    "country code": "TO",
+    "dial-in code": "+676",
+    "name": {
+      "EN": "Tonga",
+      "RU": "Тонга"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "TT",
+    "dial-in code": "+1868",
+    "name": {
+      "EN": "Trinidad and Tobago",
+      "RU": "Тринидад и Тобаго"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+1",
+    "country code": "TN",
+    "dial-in code": "+216",
+    "name": {
+      "EN": "Tunisia",
+      "RU": "Тунис"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+3",
+    "country code": "TR",
+    "dial-in code": "+90",
+    "name": {
+      "EN": "Turkey",
+      "RU": "Турция"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+5",
+    "country code": "TM",
+    "dial-in code": "+993",
+    "name": {
+      "EN": "Turkmenistan",
+      "RU": "Туркменистан"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "+12",
+    "country code": "TV",
+    "dial-in code": "+688",
+    "name": {
+      "EN": "Tuvalu",
+      "RU": "Тувалу"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "UG",
+    "dial-in code": "+256",
+    "name": {
+      "EN": "Uganda",
+      "RU": "Уганда"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "UA",
+    "dial-in code": "+380",
+    "name": {
+      "EN": "Ukraine",
+      "RU": "Украина"
+    },
+    "preferred language": "UA"
+  },
+  {
+    "UTC": "+4",
+    "country code": "AE",
+    "dial-in code": "+971",
+    "name": {
+      "EN": "United Arab Emirates",
+      "RU": "ОАЭ"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+1",
+    "country code": "GB",
+    "dial-in code": "+44",
+    "name": {
+      "EN": "United Kingdom",
+      "RU": "Великобритания"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "US",
+    "dial-in code": "+1",
+    "name": {
+      "EN": "United States",
+      "RU": "Соединенные Штаты Америки"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-3",
+    "country code": "UY",
+    "dial-in code": "+598",
+    "name": {
+      "EN": "Uruguay",
+      "RU": "Уругвай"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+5",
+    "country code": "UZ",
+    "dial-in code": "+998",
+    "name": {
+      "EN": "Uzbekistan",
+      "RU": "Узбекистан"
+    },
+    "preferred language": "RU"
+  },
+  {
+    "UTC": "+11",
+    "country code": "VU",
+    "dial-in code": "+678",
+    "name": {
+      "EN": "Vanuatu",
+      "RU": "Вануату"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+4",
+    "country code": "VE",
+    "dial-in code": "+58",
+    "name": {
+      "EN": "Venezuela",
+      "RU": "Венесуэла"
+    },
+    "preferred language": "SP"
+  },
+  {
+    "UTC": "+7",
+    "country code": "VN",
+    "dial-in code": "+84",
+    "name": {
+      "EN": "Vietnam",
+      "RU": "Вьетнам"
+    },
+    "preferred language": "VI"
+  },
+  {
+    "UTC": "+13",
+    "country code": "WS",
+    "dial-in code": "+685",
+    "name": {
+      "EN": "Western Samoa",
+      "RU": "Самоа"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+3",
+    "country code": "YE",
+    "dial-in code": "+967",
+    "name": {
+      "EN": "Yemen",
+      "RU": "Йемен"
+    },
+    "preferred language": "AR"
+  },
+  {
+    "UTC": "+2",
+    "country code": "ZM",
+    "dial-in code": "+0",
+    "name": {
+      "EN": "Zambia",
+      "RU": "Замбия"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "+2",
+    "country code": "ZW",
+    "dial-in code": "+260",
+    "name": {
+      "EN": "Zimbabwe",
+      "RU": "Зимбабве"
+    },
+    "preferred language": "EN"
+  },
+  {
+    "UTC": "-4",
+    "country code": "VG",
+    "dial-in code": "+1284",
+    "name": {
+      "EN": "British Virgin Islands",
+      "RU": "Британские Виргинские острова"
+    },
+    "preferred language": "EN"
+  }
+]

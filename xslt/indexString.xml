@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type='text/xsl' href="indexJSON.xsl"?>
+<?xml-stylesheet type='text/xsl' href="indexString.xsl"?>
 <root>
-    <title>Hello World</title>
+    <title>Plant Shop</title>
     <catalog>
         <plant>
             <common>Кровавый корень</common>
