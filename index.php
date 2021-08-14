@@ -24,6 +24,7 @@
     <ol><a href="/lambda.php">Lambda</a></ol>
     <ol><a href="/trait.php">Trait</a></ol>
     <ol><a href="/self_static.php">Позднее статическое связывание(self static)</a></ol>
+    <ol><a href="/ArrayConvertObject.php">массив(ассоциативный) в массив объектов</a></ol>
 </ul>
 <!-------------------------------->
 <hr>
