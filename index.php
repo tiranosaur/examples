@@ -10,7 +10,8 @@
 <body>
 <!------------------------------->
 <hr>
-<a href="JavaScriptAdv/index.php">JavaScript Test</a>
+<p><a href="JavaScriptAdv/index.php">JavaScript Test</a></p>
+<p><a href="futurama.php">futurama random</a></p>
 <!------------------------------->
 <hr>
 <h3>PHP</h3>
