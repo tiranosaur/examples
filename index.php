@@ -52,6 +52,7 @@
     <li><a href="/frontend/float_button/index.php">Float Button</a></li>
     <li><a href="/frontend/step-progress-bar/index.php">Step progress bar</a></li>
     <li><a href="/frontend/line_with_arrow/index.php">Line with arrow</a></li>
+    <li><a href="/frontend/transition_gradient/index.php">Gradient/Transition Hack</a></li>
 </ul>
 <!------------------------------->
 <hr>
