@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <style>
-        .forex_analytics_item {
+        .root {
             position: relative;
             background-color: #ccc;
             background-image: radial-gradient(circle at 80%, #c6d3e4, #bbcce4, #b0c6e4, #a5bfe3, #9ab8e3);;
@@ -15,7 +15,7 @@
             z-index: 1;
         }
 
-        .forex_analytics_item:after {
+        .root:after {
             position: absolute;
             content: '';
             top: 0;
@@ -29,11 +29,11 @@
             opacity: 0;
         }
 
-        .forex_analytics_item:hover:after {
+        .root:hover:after {
             opacity: 1;
         }
 
-        .forex_analytics_item span {
+        .root a {
             position: relative;
             z-index: 3;
         }
@@ -41,7 +41,9 @@
 </head>
 <body>
 
-<div class="forex_analytics_item" style="width:500px; height: 200px"></div>
+<div class="root" style="width:500px; height: 200px">
+    <a href="">sdfsdfsdfsdfsdf</a>
+</div>
 
 </body>
 </html>
